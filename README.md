@@ -1,5 +1,5 @@
 # Public-info
-Get Public Information Using this Tools.
+<h1>Get Public Information Using this Tools.</h1>
 
-# You can easily Get data by providing Nid No/ Mobil No And BirthReg No
+# You can easily Get data by providing Nid No/ Mobile No And BirthReg No
 
